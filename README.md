@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ravikiranediga/LeetCodee/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranediga/LeetCodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/ravikiranediga/LeetCodee/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ravikiranediga/LeetCodee/tree/master/0238-product-of-array-except-self) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravikiranediga/LeetCodee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ravikiranediga/LeetCodee/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
