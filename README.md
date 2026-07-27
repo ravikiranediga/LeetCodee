@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranediga/LeetCodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/ravikiranediga/LeetCodee/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ravikiranediga/LeetCodee/tree/master/0238-product-of-array-except-self) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikiranediga/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ravikiranediga/LeetCodee/tree/master/0056-merge-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikiranediga/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikiranediga/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
