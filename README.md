@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranediga/LeetCodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/ravikiranediga/LeetCodee/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ravikiranediga/LeetCodee/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ravikiranediga/LeetCodee/tree/master/0238-product-of-array-except-self) |
 | [0877-stone-game](https://github.com/ravikiranediga/LeetCodee/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikiranediga/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
@@ -60,8 +62,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ravikiranediga/LeetCodee/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ravikiranediga/LeetCodee/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
