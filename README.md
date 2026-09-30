@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ravikiranediga/LeetCodee/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ravikiranediga/LeetCodee/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ravikiranediga/LeetCodee/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranediga/LeetCodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/ravikiranediga/LeetCodee/tree/master/0228-summary-ranges) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ravikiranediga/LeetCodee/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ravikiranediga/LeetCodee/tree/master/0056-merge-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikiranediga/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravikiranediga/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
