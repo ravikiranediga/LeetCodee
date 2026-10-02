@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ravikiranediga/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ravikiranediga/LeetCodee/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ravikiranediga/LeetCodee/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ravikiranediga/LeetCodee/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ravikiranediga/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ravikiranediga/LeetCodee/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ravikiranediga/LeetCodee/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ravikiranediga/LeetCodee/tree/master/0075-sort-colors) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ravikiranediga/LeetCodee/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravikiranediga/LeetCodee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ravikiranediga/LeetCodee/tree/master/1386-cinema-seat-allocation) |
 ## Monotonic Stack
