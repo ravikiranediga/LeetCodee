@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravikiranediga/LeetCodee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravikiranediga/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravikiranediga/LeetCodee/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikiranediga/LeetCodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravikiranediga/LeetCodee/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravikiranediga/LeetCodee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravikiranediga/LeetCodee/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
