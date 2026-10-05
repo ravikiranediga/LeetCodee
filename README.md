@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravikiranediga/LeetCodee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravikiranediga/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravikiranediga/LeetCodee/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravikiranediga/LeetCodee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0856-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
