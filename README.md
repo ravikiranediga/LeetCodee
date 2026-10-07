@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0856-score-of-parentheses) |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ravikiranediga/LeetCodee/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ravikiranediga/LeetCodee/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
