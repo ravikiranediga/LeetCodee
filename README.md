@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravikiranediga/LeetCodee/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ravikiranediga/LeetCodee/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ravikiranediga/LeetCodee/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0301-remove-invalid-parentheses) |
+| [0344-reverse-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0678-valid-parenthesis-string) |
