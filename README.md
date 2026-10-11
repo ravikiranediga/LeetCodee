@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ravikiranediga/LeetCodee/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ravikiranediga/LeetCodee/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search
 |  |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0301-remove-invalid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ravikiranediga/LeetCodee/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
