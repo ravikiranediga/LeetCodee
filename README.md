@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ravikiranediga/LeetCodee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ravikiranediga/LeetCodee/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ravikiranediga/LeetCodee/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/ravikiranediga/LeetCodee/tree/master/2409-count-days-spent-together) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravikiranediga/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/ravikiranediga/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
+| [2409-count-days-spent-together](https://github.com/ravikiranediga/LeetCodee/tree/master/2409-count-days-spent-together) |
 ## Game Theory
 |  |
 | ------- |
