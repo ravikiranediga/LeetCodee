@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ravikiranediga/LeetCodee/tree/master/0856-score-of-parentheses) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ravikiranediga/LeetCodee/tree/master/0992-subarrays-with-k-different-integers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravikiranediga/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ravikiranediga/LeetCodee/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ravikiranediga/LeetCodee/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ravikiranediga/LeetCodee/tree/master/0992-subarrays-with-k-different-integers) |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ravikiranediga/LeetCodee/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravikiranediga/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
