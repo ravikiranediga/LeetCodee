@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ravikiranediga/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravikiranediga/LeetCodee/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravikiranediga/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravikiranediga/LeetCodee/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ravikiranediga/LeetCodee/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravikiranediga/LeetCodee/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ravikiranediga/LeetCodee/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravikiranediga/LeetCodee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravikiranediga/LeetCodee/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravikiranediga/LeetCodee/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ravikiranediga/LeetCodee/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravikiranediga/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ravikiranediga/LeetCodee/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
