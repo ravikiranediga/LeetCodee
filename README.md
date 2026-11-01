@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ravikiranediga/LeetCodee/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ravikiranediga/LeetCodee/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ravikiranediga/LeetCodee/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ravikiranediga/LeetCodee/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ravikiranediga/LeetCodee/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ravikiranediga/LeetCodee/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ravikiranediga/LeetCodee/tree/master/0704-binary-search) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ravikiranediga/LeetCodee/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/ravikiranediga/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
 | [2409-count-days-spent-together](https://github.com/ravikiranediga/LeetCodee/tree/master/2409-count-days-spent-together) |
