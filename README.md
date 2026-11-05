@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravikiranediga/LeetCodee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ravikiranediga/LeetCodee/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ravikiranediga/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ravikiranediga/LeetCodee/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/ravikiranediga/LeetCodee/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ravikiranediga/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ravikiranediga/LeetCodee/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikiranediga/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ravikiranediga/LeetCodee/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ravikiranediga/LeetCodee/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravikiranediga/LeetCodee/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ravikiranediga/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ravikiranediga/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravikiranediga/LeetCodee/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ravikiranediga/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ravikiranediga/LeetCodee/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ravikiranediga/LeetCodee/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ravikiranediga/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ravikiranediga/LeetCodee/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
