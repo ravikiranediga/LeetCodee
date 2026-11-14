@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ravikiranediga/LeetCodee/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ravikiranediga/LeetCodee/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ravikiranediga/LeetCodee/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ravikiranediga/LeetCodee/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravikiranediga/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravikiranediga/LeetCodee/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/ravikiranediga/LeetCodee/tree/master/3693-climbing-stairs-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ravikiranediga/LeetCodee/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ravikiranediga/LeetCodee/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ravikiranediga/LeetCodee/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ravikiranediga/LeetCodee/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ravikiranediga/LeetCodee/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/ravikiranediga/LeetCodee/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ravikiranediga/LeetCodee/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
